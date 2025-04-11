@@ -1,0 +1,19 @@
+return {
+	"Killstreak",
+	"Infector",
+	"Reaper",
+	"Orbit",
+	"Slapstreak",
+	"Equinox",
+	"Clickstreak",
+	"Azure",
+	"Dash",
+	"Godstreak",
+	"KillstreakEx",
+	"Trojan",
+	"ReaperEx",
+	"Atomic",
+	"Infinite",
+	"Karma",
+	"Engineer"
+}
